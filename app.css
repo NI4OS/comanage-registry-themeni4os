@@ -65,11 +65,8 @@ ul.form-list input[type="text"] {
   opacity: 0.9;
 }
 #navigation-drawer{
-height: auto;
+height:auto;
 }
 #main-menu{
-padding: 0;
-}
-.redirect.co_petitions #main.mdl-layout__content {
-     margin-left: unset !important;
+padding: 0 0 0em 0;
 }
